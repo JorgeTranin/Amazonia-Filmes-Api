@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Poderoso Chefão",
+    "descricao": "Um clássico da máfia americana, que segue a história da família Corleone e seu envolvimento no crime organizado.",
+    "imagem": "https://exemplo.com/imagens/o-poderoso-chefao.jpg",
+    "dataDeLancamento": "1972-03-14"
+  },
+  {
+    "id": 2,
+    "titulo": "Star Wars: Episódio IV - Uma Nova Esperança",
+    "descricao": "Uma aventura épica de ficção científica que segue um jovem fazendeiro, um mercenário astuto e dois robôs em uma missão para salvar a galáxia da tirania do Império.",
+    "imagem": "https://exemplo.com/imagens/star-wars-episodio-iv.jpg",
+    "dataDeLancamento": "1977-05-25"
+  },
+  {
+    "id": 3,
+    "titulo": "E o Vento Levou",
+    "descricao": "Uma história de amor épica e tumultuosa que se passa durante a Guerra Civil Americana e a Reconstrução.",
+    "imagem": "https://exemplo.com/imagens/e-o-vento-levou.jpg",
+    "dataDeLancamento": "1939-12-15"
+  },
+  {
+    "id": 4,
+    "titulo": "Titanic",
+    "descricao": "Uma história de amor trágica que se passa a bordo do icônico navio Titanic, que afunda durante sua viagem inaugural em 1912.",
+    "imagem": "https://exemplo.com/imagens/titanic.jpg",
+    "dataDeLancamento": "1997-12-19"
+  },
+  {
+    "id": 5,
+    "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+    "descricao": "A conclusão épica da trilogia do Senhor dos Anéis, que segue a batalha final entre as forças do bem e do mal na Terra Média.",
+    "imagem": "https://exemplo.com/imagens/o-senhor-dos-aneis-o-retorno-do-rei.jpg",
+    "dataDeLancamento": "2003-12-17"
+  },
+  {
+    "id": 6,
+    "titulo": "Jurassic Park",
+    "descricao": "Um filme de aventura e ficção científica que segue um grupo de cientistas que criam dinossauros em um parque temático.",
+    "imagem": "https://exemplo.com/imagens/jurassic-park.jpg",
+    "dataDeLancamento": "1993-06-11"
+  },
+  {
+    "id": 7,
+    "titulo": "Indiana Jones e Os Caçadores da Arca Perdida",
+    "descricao": "Um filme de ação e aventura que segue o arqueólogo Indiana Jones em sua busca pela Arca da Aliança.",
+    "imagem": "https://exemplo.com/imagens/indiana-jones-e-os-cacadores-da-arca-perd
+  },
+  {
+    "id": 8,
+    "titulo": "Interestelar",
+    "descricao": "Um filme de ficção científica que segue uma equipe de astronautas em uma missão para encontrar um novo planeta habitável para a humanidade.",
+    "imagem": "https://exemplo.com/imagens/interestelar.jpg",
+    "dataDeLancamento": "2014-11-07"
+  },
+  {
+    "id": 9,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "descricao": "A primeira adaptação cinematográfica da série de livros Harry Potter, que segue o jovem bruxo Harry Potter em sua jornada para a escola de magia e bruxaria de Hogwarts.",
+    "imagem": "https://exemplo.com/imagens/harry-potter-e-a-pedra-filosofal.jpg",
+    "dataDeLancamento": "2001-11-16"
+  },
+  {
+    "id": 10,
+    "titulo": "De Volta Para o Futuro",
+    "descricao": "Um filme de ficção científica e aventura que segue o adolescente Marty McFly e o cientista excêntrico Doc Brown em uma viagem no tempo.",
+    "imagem": "https://exemplo.com/imagens/de-volta-para-o-futuro.jpg",
+    "dataDeLancamento": "1985-07-03"
+  }
+]
