@@ -45,7 +45,8 @@
     "id": 7,
     "titulo": "Indiana Jones e Os Caçadores da Arca Perdida",
     "descricao": "Um filme de ação e aventura que segue o arqueólogo Indiana Jones em sua busca pela Arca da Aliança.",
-    "imagem": "https://exemplo.com/imagens/indiana-jones-e-os-cacadores-da-arca-perd
+    "imagem": "https://exemplo.com/imagens/indiana-jones-e-os-cacadores-da-arca-perd",
+    "dataDeLancamento": "2005-11-16"
   },
   {
     "id": 8,
